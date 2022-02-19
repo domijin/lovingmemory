@@ -5,8 +5,8 @@
 </template>
 
 <style lang="scss">
-$highlight: #f41b8e;
-$highlightmuted: #f41b8ed9;
+$highlight: #1fbcff;
+$highlightmuted: #00b1fc;
 $background: #2b3143;
 
 html {
