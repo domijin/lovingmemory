@@ -48,7 +48,7 @@
       <NuxtLink to="/tribute"
         ><span class="icon">
           <svg
-            class="svg-inline--fa fa-map fa-w-18 fa-fw"
+            class="svg-inline--fa fa-star fa-w-18 fa-fw"
             aria-hidden="true"
             focusable="false"
             data-prefix="fas"
