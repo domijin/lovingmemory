@@ -939,6 +939,58 @@
           more time. I send heartfelt condolences to his family and friends. -
           Calla McLachlan
         </p>
+        <p>
+          I met Jing Luo for the first time at the gravitational-wave summer
+          school in Kunming in 2009. We met again in fall 2011, when I returned
+          to UT-Brownsville (UTB, renamed UTRGV in 2015) as a postdoc, and he
+          enrolled as a graduate student of UTB one year earlier. We were both
+          doing research on pulsar timing arrays under the command of Frederick
+          (Rick) Jenet, so I have more interactions with him than other Chinese
+          students in Brownsville. We often went together to places near campus,
+          such as Subway, McDonald’s, Wing stop, etc., for lunch. Every Monday
+          is our “Big Mac day”. Under Texas’s big sky and scorching sun we
+          walked to one of these eateries talking about various, if not all,
+          kinds of topics on the road. I recall, perhaps, Jing started to get
+          used to wearing a cowboy’s hat since then. We participated in the
+          annual meeting of the NANOGrav and IPTA each year. During the long
+          journeys, we had been chatting about the obstacles in our research,
+          anxiety before giving a talk, Rick’s gossip, and, of course, Cixin
+          Liu’s “Three bodies”. Later, sometimes I poured out words about this
+          quite popular science fiction with other friends, but in fact, I have
+          never flipped any page of the three volumes. I don’t remember exactly
+          when, maybe at one of the IPTA meetings, Jing told me that he want to
+          make a new and modern software package for pulsar timing, to upgrade
+          the “old” Tempo2 built by George Hobbs et al. I suspect, since then,
+          some of the big guys in this field, including George, would have
+          somewhat “disdained” Jing’s bold idea, which maybe mainly due to its
+          name PINT (Pint Is Not Tempo3). What is valuable is Jing insisted and
+          slowly making progresses so that some of the big guys in this field
+          started to notice and even joined in the development of PINT. At the
+          end of November 2014, when I was leaving Brownsville, it seems to me
+          that PINT was still a baby and far from completeness. Surprisingly and
+          happily, PINT has been gradually growing, iterating and maturing over
+          the years. I believe Jing’s persistence and diligence is an importance
+          drive of theses progresses. When he was visiting China in the summer
+          2016, we invited him to give a talk on PINT at the Institute of
+          Astrophysics in Huazhong University of Science and Technology. More
+          recently, in January 2021, we invited him to give us an update on PINT
+          online. After his talk, PINT gained several more users. As a
+          researcher in this field, I can clearly see that PINT has already
+          become self-contained and matured [Luo et al., ApJ 2021], actually it
+          has already been applied in the data analysis of the NANOGrav 12.5-yr
+          data release [Alam et al., ApJS, 2021a,b]. I have received an
+          automatic email from GitHub for PINT, that was a new fix made by Jing
+          at 4:13 PM on February 15 (local time of Toronto), perhaps, just a few
+          hours before he passed away. The other night, I had a dream about
+          Jing: He had been in a deep sleep for three days without waking up.
+          His families and friends were all surrounding him and very worried
+          about him. At the last moment of the dream, Jing woke up and sat up,
+          emerging on his face is his hallmark smile ... It is impossible for me
+          to really image the pain of Jing’s parents at this moment. And there
+          seems nothing I could do for them. Perhaps only time and the memories
+          living in our hearts could bring them a glimpse of console. Goodbye,
+          bro. We will miss you. Yan Wang Feb. 23, 2022. Wuhan
+        </p>
         <h2>Chinese (translated)</h2>
         <p>
           Let's help translate the “JingLuo Tribute” in a page-by-page manner.
@@ -1415,6 +1467,22 @@
           。他还非常认真地尝试学习困难的舞蹈序列 —我记得在 2021 年 11
           月试图和他一起学习一个舞蹈,因为我们一起笑得太厉害而我们不得不停止跳舞。对我来说,他给人的感觉是一个真正的绅士,他对每个舞伴都很关心。因为他不是一个简单地走过场式生活的人,我认为他的去世更格外令人心碎。我感觉到他试著去真正享受并充分善用他的每一个时刻,也尽情享受和爱惜他生命中的每一段关系。我希望他能有更多的时间。我向他的家人和朋友致以衷心的慰问。"
           —— 卡拉-麦克拉伦 （Calla McLachlan）
+        </p>
+        <p>
+          初识骆靖是在2009年昆明的引力波暑期学校。再次相遇已是2011年秋，我重返UT-Brownsville（UTB，2015年更名为UTRGV）做博士后，而他已于前一年成为UTB的研究生。我们都是在Frederick（Rick）Jenet的麾下做脉冲星计时阵列方向的研究，因此我与他的交往要比我与Brownsville的其他中国学生多许多。我们常会相约去校园附近的Subway，McDonald’s，Wing
+          Stop吃午餐，每周一都是我们的“巨无霸（Big
+          Mac）日”。头顶Texas独有的广阔天空在炙热的阳光下步行去餐厅，一路讨论各种各样的话题，可谓无话不说。回想起来，可能是从那时起他时常会戴上一顶牛仔帽。我们每年还会一起参加NANOGrav和IPTA在各地的年度会议。漫长的旅途中我们会聊起科研进展的不顺、做报告前的焦虑、Rick的八卦、当然还有刘慈欣的《三体》。后来我经常和其他朋友聊起这本挺出名的科幻，侃侃而谈，可实际上我从未翻开过这套三卷本的任何一卷。
+          不知从何时起，或许是某次IPTA会议，骆靖就开始对我说他要写一个脉冲星计时的新软件，来升级George
+          Hobbs等人的Tempo2。我想从那时起，包括George在内的一些这个领域的大佬，或许对骆靖的这个大胆想法都是有些“不屑的”，这或许主要是因为这个软件的名字PINT（Pint
+          Is Not
+          Tempo3）导致的。可贵的是，骆靖坚持了下来，并且慢慢有一些大佬开始注意到甚至加入了PINT的开发。2014年11月底，当我要离开Brownsville时，PINT在我看来仍然是遥遥无期的。可喜的是，PINT在慢慢地不断成长，不断迭代、不断成熟，我想这与骆靖的坚持与勤奋密切相关。后来，他2016年暑假回国探亲时，我们邀请他在华中科技大学的天体物理研究所做了关于PINT的报告。最近，2021年1月初，我们又邀请他在线上做了PINT的报告，并且报告过后，PINT的用户又增加了几位。作为他的同行，我可以清晰地看到现在的PINT已经自成一体并且成熟了[Luo
+          et al., ApJ 2021]，而且它已经被应用在NANOGrav 12.5年的数据分析中[Alam
+          et al., ApJS, 2021a,b]。我在2022年2月15日4:13
+          pm（多伦多当地时间）收到他在Github上更新PINT的提示邮件，这可能距他的离世只有几个小时。
+          那天晚上，我梦到了骆靖：他沉睡三天不醒。他的家人和朋友都环绕着他，非常担心他。在梦境的最后一刻，骆靖醒来了，并且坐起了身，脸上露出了他标志性的笑容...
+          ...
+          我无法真正体会到骆靖父母此时此刻内心的伤痛。我也似乎没有什么能为他们做的。或许唯有时间和活在大家心中的记忆能够给他们带来一丝安慰。
+          好走，兄弟。我们永远想念你！ 王炎 2022年2月23日，武汉
         </p>
       </section>
 
