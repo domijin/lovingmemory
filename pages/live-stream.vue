@@ -4,7 +4,7 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">Funeral service details</h1>
+      <h1 class="title">Memorials</h1>
       <h2>Funeral service details</h2>
       <p>Date: Monday March 21, 2022</p>
       <p>Time: 1:00 pm</p>
@@ -25,7 +25,16 @@
         >
       </p>
 
-      <h2>Service Livestream: TBD</h2>
+      <h2>Service Livestream</h2>
+      <p>TBD</p>
+
+      <h2>scientific memorial</h2>
+      <p>
+        We are also planning a hybrid-mode scientific memorial celebrating
+        Jing's scientific life and contributions for a later date. If you cannot
+        attend (or feel uncomfortable attending) the funeral, do know that there
+        will be a future opportunity to gather and remember Jing.
+      </p>
 
       <!-- Comment
       <h2>Church Service</h2>
