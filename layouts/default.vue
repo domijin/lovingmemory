@@ -98,10 +98,10 @@ html {
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            color: #fffc;
+            color: #e3c7fc;
             font-size: 12px;
             &.nuxt-link-exact-active {
-              color: #fff;
+              color: #e3c7fc;
               .icon {
                 color: lighten($highlight, 5%);
               }
@@ -186,7 +186,7 @@ html {
     font-size: 18px;
     background: $highlight;
     text-decoration: none;
-    color: #fff;
+    color: #e3c7fc;
     margin: 10px 0;
     box-shadow: 0 0 5px 2px rgba(0, 0, 0, 0.3);
     border-top: 1px solid rgba(255, 255, 255, 0.2);
@@ -228,7 +228,7 @@ ul {
 }
 .name {
   font-size: 40px;
-  color: #fff;
+  color: #e3c7fc;
   font-weight: 300;
 }
 .title {
@@ -239,7 +239,7 @@ ul {
   color: #35495e;
   letter-spacing: 1px;
   margin: 40px 0;
-  color: #fff;
+  color: #e3c7fc;
   @media screen and (max-width: 800px) {
     font-size: 40px;
     margin: 30px 0;
