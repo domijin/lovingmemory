@@ -16,10 +16,6 @@
         Website:
         <a href="https://chapelridgefh.com/">https://chapelridgefh.com/</a>
       </p>
-      <p>
-        Livestream Link: 
-        <a href="https://video.ibm.com/channel/s5CHH26bSXz">https://video.ibm.com/channel/s5CHH26bSXz</a>
-      </p>
 
       <p>
         You can RSVP at the form here:
@@ -30,14 +26,20 @@
       </p>
 
       <h2>Service Livestream</h2>
-      <p>TBD</p>
-
-      <h2>scientific memorial</h2>
       <p>
-        We are also planning a hybrid-mode scientific memorial celebrating
-        Jing's scientific life and contributions for a later date. If you cannot
-        attend (or feel uncomfortable attending) the funeral, do know that there
-        will be a future opportunity to gather and remember Jing.
+        Livestream Link:
+        <a href="https://video.ibm.com/channel/s5CHH26bSXz"
+          >https://video.ibm.com/channel/s5CHH26bSXz</a
+        >
+      </p>
+
+      <h2>Scientific Memorial</h2>
+      <p>
+        We (CITA) are also planning a hybrid-mode scientific memorial
+        celebrating Jing's scientific life and contributions for a later date.
+        If you cannot attend (or feel uncomfortable attending) the funeral, do
+        know that there will be a future opportunity to gather and remember
+        Jing.
       </p>
 
       <!-- Comment
