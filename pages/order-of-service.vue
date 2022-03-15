@@ -4,40 +4,29 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">Order of service</h1>
+      <h1 class="title">SERVICE OF REMEMBRANCE</h1>
 
-      <p>To be updated, CITA is the main host for service</p>
       <!-- TO be updated
       <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
-      <h2>Church Service <span>10:30am</span></h2>
+      -->
+      <h2>Chapel Ridge Funeral Home and Cremation Centre <span>Monday, March 21, 2022 at 1.00 p.m.</span></h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 10:30am at Church Address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: Goodness of God</ListItem>
-        <ListItem>Tributes - Family &amp; Friends</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Prayer of Commendation</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
+        <ListItem>Service starts at 1.00 p.m. at 8911 Woodbine Avenue, Markham ON L3R 5G1</ListItem>
+        <ListItem>Entrance music: TBD</ListItem>
+        <ListItem>Welcome - Master of Ceremonies </ListItem>
+        <ListItem>Obituary Reading from Jing's parents</ListItem>
+        <ListItem>Tributes - Family Members</ListItem>
+        <ListItem>Poem Reading - Canadian Grandmother</ListItem>
+        <ListItem>Tributes - CARA / Former Supervisor</ListItem>
+        <ListItem>Tributes - CITA</ListItem>
+        <ListItem>Jing's favorite song - by CITA postdoc Friends</ListItem>
+        <ListItem>Tributes - Close Friends</ListItem>
+        <ListItem>Moment of Reflection</ListItem>
+        <ListItem>Readings</ListItem>
+        <ListItem>Closing Words</ListItem>
+        <ListItem>Interment</ListItem>
       </ul>
-      <h2>Crematorium <span>12:00pm</span></h2>
-      <ul class="fa-ul">
-        <ListItem>Service starts at 12pm at Crematorium address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading - Psalm 61 v1-4</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Tribute</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Committal</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-        <ListItem>Exit music: New Wine</ListItem>
-      </ul>
-
-    --></div>
+    </div>
   </div>
 </template>
 

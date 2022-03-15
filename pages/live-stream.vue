@@ -16,6 +16,10 @@
         Website:
         <a href="https://chapelridgefh.com/">https://chapelridgefh.com/</a>
       </p>
+      <p>
+        Livestream Link: 
+        <a href="https://video.ibm.com/channel/s5CHH26bSXz">https://video.ibm.com/channel/s5CHH26bSXz</a>
+      </p>
 
       <p>
         You can RSVP at the form here:
