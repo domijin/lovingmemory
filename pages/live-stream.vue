@@ -4,10 +4,10 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">Memorials</h1>
-      <h2>Funeral service details</h2>
-      <p>Date: Monday March 21, 2022</p>
-      <p>Time: 1:00 pm</p>
+      <h1 class="title">Memorials 追悼会</h1>
+      <h2>Funeral service details 送别仪式</h2>
+      <p>Date: Monday March 21, 2022 - 2022年3月22日</p>
+      <p>Time: 1:00 pm EST - 北京时间 1:00 am</p>
       <p>
         Address: Chapel Ridge Funeral Home. 8911 Woodbine Avenue, Markham, ON
         L3R 5G1
@@ -27,7 +27,7 @@
 
       <h2>Service Livestream</h2>
       <p>
-        Livestream Link:
+        Livestream Link （亲友可以通过以下链接远程参与）:
         <a href="https://video.ibm.com/channel/s5CHH26bSXz"
           >https://video.ibm.com/channel/s5CHH26bSXz</a
         >
