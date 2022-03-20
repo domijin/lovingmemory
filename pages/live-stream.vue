@@ -19,10 +19,13 @@
 
       <h2>Service Livestream</h2>
       <p>
-        Livestream Link （亲友可以通过以下链接远程参与，需VPN）:
+        Livestream Link （亲友可以通过以下链接远程参与）:
         <a href="https://video.ibm.com/channel/s5CHH26bSXz"
-          >https://video.ibm.com/channel/s5CHH26bSXz</a
+          >https://video.ibm.com/channel/s5CHH26bSXz （需VPN）</a
         >
+        <a href="https://utoronto.zoom.us/j/5599455089">
+          备用选项 zoom视频转播
+        </a>
       </p>
 
       <h2>Scientific Memorial</h2>

@@ -4,7 +4,7 @@
       <Nav />
     </div>
     <div class="section details">
-      <h1 class="title">SERVICE OF REMEMBRANCE 告别式会</h1>
+      <h1 class="title">SERVICE OF REMEMBRANCE 追悼会</h1>
 
       <!-- TO be updated
       <p class="highlight">A Bit of important text that you want to stand out, such as any dressing requirements.</p>
