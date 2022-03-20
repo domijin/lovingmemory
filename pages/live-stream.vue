@@ -17,17 +17,9 @@
         <a href="https://chapelridgefh.com/">https://chapelridgefh.com/</a>
       </p>
 
-      <p>
-        You can RSVP at the form here:
-        <a
-          href="https://docs.google.com/forms/d/18XMpCJhAZb-uMmh6skQ-49TutrxaxafOLxpk-CBIROc/viewform?edit_requested=true"
-          >Google Form</a
-        >
-      </p>
-
       <h2>Service Livestream</h2>
       <p>
-        Livestream Link （亲友可以通过以下链接远程参与）:
+        Livestream Link （亲友可以通过以下链接远程参与，需VPN）:
         <a href="https://video.ibm.com/channel/s5CHH26bSXz"
           >https://video.ibm.com/channel/s5CHH26bSXz</a
         >
