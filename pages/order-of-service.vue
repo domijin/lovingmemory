@@ -21,7 +21,7 @@
       <p>
         Jing’s family and friends would like to thank you for your support in
         honoring the life and legacy of Jing -
-        骆靖的亲友衷心感谢大家和对骆靖传奇的一生的支持和纪念
+        骆靖的亲友衷心感谢大家一直以来的对他生活事业的支持和纪念。
       </p>
       <ul class="fa-ul">
         <ListItem>Music 演奏哀乐</ListItem>
