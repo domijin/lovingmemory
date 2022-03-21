@@ -23,7 +23,7 @@
         <a href="https://video.ibm.com/channel/s5CHH26bSXz"
           >https://video.ibm.com/channel/s5CHH26bSXz （需VPN）</a
         >
-        <a href="https://utoronto.zoom.us/j/5599455089">
+        <a href="https://utoronto.zoom.us/j/81336774226">
           备用选项 zoom视频转播
         </a>
       </p>
