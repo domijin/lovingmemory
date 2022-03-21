@@ -17,17 +17,6 @@
         <a href="https://chapelridgefh.com/">https://chapelridgefh.com/</a>
       </p>
 
-      <h2>Service Livestream</h2>
-      <p>
-        Livestream Link （亲友可以通过以下链接远程参与）:
-        <a href="https://video.ibm.com/channel/s5CHH26bSXz"
-          >https://video.ibm.com/channel/s5CHH26bSXz （需VPN）</a
-        >
-        <a href="https://utoronto.zoom.us/j/81336774226">
-          备用选项 zoom视频转播
-        </a>
-      </p>
-
       <h2>Scientific Memorial</h2>
       <p>
         We (CITA) are also planning a hybrid-mode scientific memorial
